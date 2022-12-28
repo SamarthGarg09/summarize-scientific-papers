@@ -1,0 +1,17 @@
+Generated with the Document Summarization space :) https://hf.co/spaces/pszemraj/document-summarization
+
+BLEU: A Bilingual Evaluation Understudy
+We present a method for automatic evaluation of machine translation systems that is based on the concept of bilingual evaluation.
+This method, which we call BLEU, aims to reduce the evaluation bottleneck in Machine Translation (MT) research by computing the closeness between a machine translation system and a reference human translation in terms of n-gram matches.
+To measure MT performance, one measures the distance between the machine translation and the reference translation as a measure of how close they are to one another.
+By this measure, one can determine the quality of each reference translation given a source sentence without having to build an entire evaluation corpus devoted to evaluating individual sentences.
+In contrast, a human evaluation experiment, we compare baseline metrics for performance of human evaluations with those provided by
+
+
+
+
+Section Scores:
+
+ - -3.2599
+
+---
