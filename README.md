@@ -65,7 +65,7 @@
 * [matplotlib](https://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
 
-## **Screenshots**
+<!-- ## **Screenshots** -->
 --------------------------------
 
-![ScreenShot](assets/app.png)
+<!-- ![ScreenShot](assets/app.png) -->
